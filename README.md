@@ -13,7 +13,7 @@ Install with python
 ```
 pip install -r requirements.txt
 ```
-3. create file query_id.txt
+3. create file `query_id.txt`
 4. Open Bot BLUM in web & open inspect webview
 5. Open Application > Session Storage > copy all tgWebAppData ex: query=xxxxx/user=xxxxx
 6. run bot 
